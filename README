@@ -1,0 +1,4 @@
+Here is a little script that takes all IP addresses from a single text file(torip) and adds them to an newly created iptables set(newset).(Drops all packets traffic from these addresses)
+
+You have to install ipset before -
+ipset can be downloaded from http://ipset.netfilter.org/install.html.
